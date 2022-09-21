@@ -5,7 +5,7 @@
 
 Back-end developer. Brazillian. I have 20 years old and 4 years of code.
 
-Always looking for new challenges and in constant search for innovation.
+Always looking for new challenges
 
 ---
 
