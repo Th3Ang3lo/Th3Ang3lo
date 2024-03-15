@@ -1,5 +1,5 @@
 #### Hello, my name is Angelo!
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://instagram.com/angelosoaresz) [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />](https://twitter.com/Th3Ang3lo) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/angelo-soares-31897517b)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://instagram.com/angelosoaresz) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/angelo-soares-31897517b)
 
 ---
 
